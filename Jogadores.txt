@@ -1,0 +1,143 @@
+/* 1 */
+{
+    "_id" : ObjectId("6181ab2ffaae177a42917efa"),
+    "Time" : "Palmeiras",
+    "Nome_jogador" : "Roni",
+    "Idade" : 26,
+    "Posição" : "Atacante"
+}
+
+/* 2 */
+{
+    "_id" : ObjectId("6181ab2ffaae177a42917efd"),
+    "Time" : "Palmeiras",
+    "Nome_jogador" : "WEVERTON",
+    "Idade" : 33,
+    "Posição" : "Goleiro"
+}
+
+/* 3 */
+{
+    "_id" : ObjectId("6183101dffafc4c9d3b8fb02"),
+    "Time" : "São Paulo",
+    "Nome_jogador" : "Thiago Volpi",
+    "Idade" : 30,
+    "Posição" : "Goleiro"
+}
+
+/* 4 */
+{
+    "_id" : ObjectId("6183101dffafc4c9d3b8fb05"),
+    "Time" : "São Paulo",
+    "Nome_jogador" : "Jonathan Carelli",
+    "Idade" : 28,
+    "Posição" : "Atacante"
+}
+
+/* 5 */
+{
+    "_id" : ObjectId("6183101dffafc4c9d3b8fb08"),
+    "Time" : "Corinthians",
+    "Nome_jogador" : "Cassio",
+    "Idade" : 34,
+    "Posição" : "Goleiro"
+}
+
+/* 6 */
+{
+    "_id" : ObjectId("6183101dffafc4c9d3b8fb0b"),
+    "Time" : "Corinthians",
+    "Nome_jogador" : "Roger Guedes",
+    "Idade" : 28,
+    "Posição" : "Atacante"
+}
+
+/* 7 */
+{
+    "_id" : ObjectId("618851e114baeec31c90fff1"),
+    "Time" : "RB Bragantino",
+    "Nome_jogador" : "Cleiton",
+    "Idade" : 24,
+    "Posição" : "Goleiro"
+}
+
+/* 8 */
+{
+    "_id" : ObjectId("618851e114baeec31c90fff4"),
+    "Time" : "RB Bragantino",
+    "Nome_jogador" : "Pedrinho",
+    "Idade" : 21,
+    "Posição" : "Atacante"
+}
+
+/* 9 */
+{
+    "_id" : ObjectId("618851e114baeec31c90fff7"),
+    "Time" : "Guarani",
+    "Nome_jogador" : "Thales",
+    "Idade" : 28,
+    "Posição" : "Zagueiro"
+}
+
+/* 10 */
+{
+    "_id" : ObjectId("618851e114baeec31c90fffa"),
+    "Time" : "Guarani",
+    "Nome_jogador" : "Bido",
+    "Idade" : 22,
+    "Posição" : "Lateral Esquerdo"
+}
+
+/* 11 */
+{
+    "_id" : ObjectId("618869e814baeec31c9102b9"),
+    "Time" : "Portuguesa",
+    "Nome_jogador" : "Tauã",
+    "Idade" : 26,
+    "Posição" : "Meia"
+}
+
+/* 12 */
+{
+    "_id" : ObjectId("618869e814baeec31c9102bc"),
+    "Time" : "Portuguesa",
+    "Nome_jogador" : "Tito",
+    "Idade" : 32,
+    "Posição" : "Atacante"
+}
+
+/* 13 */
+{
+    "_id" : ObjectId("618869e814baeec31c9102bf"),
+    "Time" : "Ponte Preta",
+    "Nome_jogador" : "André Luiz",
+    "Idade" : 26,
+    "Posição" : "Volante"
+}
+
+/* 14 */
+{
+    "_id" : ObjectId("618869e814baeec31c9102c2"),
+    "Time" : "Ponte Preta",
+    "Nome_jogador" : "Moises",
+    "Idade" : 25,
+    "Posição" : "Atacante"
+}
+
+/* 15 */
+{
+    "_id" : ObjectId("61886a6114baeec31c9102d9"),
+    "Time" : "São Caetano",
+    "Nome_jogador" : "Guilherme",
+    "Idade" : 23,
+    "Posição" : "Meia"
+}
+
+/* 16 */
+{
+    "_id" : ObjectId("61886a6114baeec31c9102dc"),
+    "Time" : "São Caetano",
+    "Nome_jogador" : "Matheus Silva",
+    "Idade" : 20,
+    "Posição" : "Meia"
+}

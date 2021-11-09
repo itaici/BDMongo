@@ -1,0 +1,71 @@
+/* 1 */
+{
+    "_id" : ObjectId("6181a56dfaae177a42917dda"),
+    "Mandante" : "Palmeiras",
+    "Visitante" : "Corinthians",
+    "Gols_mandante" : 0,
+    "Gols_visitantes" : 0
+}
+
+/* 2 */
+{
+    "_id" : ObjectId("6181a58cfaae177a42917ddd"),
+    "Mandante" : "São Paulo",
+    "Visitante" : "RB Bragantino",
+    "Gols_mandante" : 0,
+    "Gols_visitantes" : 0
+}
+
+/* 3 */
+{
+    "_id" : ObjectId("6181a5a3faae177a42917de2"),
+    "Mandante" : "São Caetano",
+    "Visitante" : "Ponte Preta",
+    "Gols_mandante" : 3.0,
+    "Gols_visitantes" : 2.0
+}
+
+/* 4 */
+{
+    "_id" : ObjectId("6181a5bbfaae177a42917de9"),
+    "Mandante" : "Portuguesa",
+    "Visitante" : "Guarani",
+    "Gols_mandante" : 0,
+    "Gols_visitantes" : 0
+}
+
+/* 5 */
+{
+    "_id" : ObjectId("6181a5fafaae177a42917e01"),
+    "Mandante" : "Corinthians",
+    "Visitante" : "São Caetano",
+    "Gols_mandante" : 0,
+    "Gols_visitantes" : 0
+}
+
+/* 6 */
+{
+    "_id" : ObjectId("6181a694faae177a42917e22"),
+    "Mandante" : "Guarani",
+    "Visitante" : "Palmeiras",
+    "Gols_mandante" : 0,
+    "Gols_visitantes" : 0
+}
+
+/* 7 */
+{
+    "_id" : ObjectId("6181a73ffaae177a42917e48"),
+    "Mandante" : "Ponte Preta",
+    "Visitante" : "São Paulo",
+    "Gols_mandante" : 0,
+    "Gols_visitantes" : 0
+}
+
+/* 8 */
+{
+    "_id" : ObjectId("6181a75cfaae177a42917e53"),
+    "Mandante" : "RB Bragantino",
+    "Visitante" : "Portuguesa",
+    "Gols_mandante" : 0,
+    "Gols_visitantes" : 0
+}

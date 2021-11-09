@@ -1,0 +1,103 @@
+/* 1 */
+{
+    "_id" : ObjectId("61819fe8faae177a42917c68"),
+    "Nome" : "Palmeiras",
+    "Pontos" : 1,
+    "Jogos" : 2,
+    "Vitorias" : 0,
+    "Derrotas" : 1,
+    "Empates" : 1,
+    "Gols_pro" : 1,
+    "Gols_contra" : 2
+}
+
+/* 2 */
+{
+    "_id" : ObjectId("6181a002faae177a42917c72"),
+    "Nome" : "Corinthians",
+    "Pontos" : 3,
+    "Jogos" : 2,
+    "Vitorias" : 1,
+    "Derrotas" : 1,
+    "Empates" : 0,
+    "Gols_pro" : 2,
+    "Gols_contra" : 2
+}
+
+/* 3 */
+{
+    "_id" : ObjectId("6181a0d9faae177a42917ca7"),
+    "Nome" : "São Paulo",
+    "Pontos" : 0,
+    "Jogos" : 2,
+    "Vitorias" : 0,
+    "Derrotas" : 2,
+    "Empates" : 0,
+    "Gols_pro" : 0,
+    "Gols_contra" : 4
+}
+
+/* 4 */
+{
+    "_id" : ObjectId("6181a2a4faae177a42917d31"),
+    "Nome" : "São Caetano",
+    "Pontos" : 6.0,
+    "Jogos" : 2,
+    "Vitorias" : 2,
+    "Derrotas" : 0,
+    "Empates" : 0,
+    "Gols_pro" : 5.0,
+    "Gols_contra" : 3.0
+}
+
+/* 5 */
+{
+    "_id" : ObjectId("6181a2bafaae177a42917d3a"),
+    "Nome" : "Portuguesa",
+    "Pontos" : 4,
+    "Jogos" : 2,
+    "Vitorias" : 1,
+    "Derrotas" : 1,
+    "Empates" : 0,
+    "Gols_pro" : 2,
+    "Gols_contra" : 1
+}
+
+/* 6 */
+{
+    "_id" : ObjectId("6181a2d2faae177a42917d3d"),
+    "Nome" : "Guarani",
+    "Pontos" : 1,
+    "Jogos" : 2,
+    "Vitorias" : 0,
+    "Derrotas" : 1,
+    "Empates" : 1,
+    "Gols_pro" : 2,
+    "Gols_contra" : 3
+}
+
+/* 7 */
+{
+    "_id" : ObjectId("6181a2e5faae177a42917d42"),
+    "Nome" : "Ponte Preta",
+    "Pontos" : 3,
+    "Jogos" : 2,
+    "Vitorias" : 1,
+    "Derrotas" : 1,
+    "Empates" : 0,
+    "Gols_pro" : 4,
+    "Gols_contra" : 3
+}
+
+/* 8 */
+{
+    "_id" : ObjectId("6181a304faae177a42917d54"),
+    "Nome" : "RB Bragantino",
+    "Pontos" : 0,
+    "Jogos" : 0,
+    "Vitorias" : 0,
+    "Derrotas" : 0,
+    "Empates" : 0,
+    "Gols_pro" : 0,
+    "Gols_contra" : 0
+}

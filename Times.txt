@@ -1,0 +1,71 @@
+/* 1 */
+{
+    "_id" : ObjectId("61819d3ffaae177a42917bad"),
+    "Nome" : "Corinthians",
+    "Cidade" : "SAO PAULO",
+    "Estados" : "SP",
+    "Estadio" : "NeoQuimica Arena"
+}
+
+/* 2 */
+{
+    "_id" : ObjectId("61819dbbfaae177a42917bc7"),
+    "Nome" : "Palmeiras",
+    "Cidade" : "SAO PAULO",
+    "Estados" : "SP",
+    "Estadio" : "Allians Park"
+}
+
+/* 3 */
+{
+    "_id" : ObjectId("61819dfdfaae177a42917bdb"),
+    "Nome" : "São Paulo",
+    "Cidade" : "SAO PAULO",
+    "Estados" : "SP",
+    "Estadio" : "Morumbi"
+}
+
+/* 4 */
+{
+    "_id" : ObjectId("61819e45faae177a42917bf3"),
+    "Nome" : "São Caetano",
+    "Cidade" : "SAO CAETANO DO SUL",
+    "Estados" : "SP",
+    "Estadio" : "Anacleto Campanela"
+}
+
+/* 5 */
+{
+    "_id" : ObjectId("61819e7bfaae177a42917c01"),
+    "Nome" : "Portuguesa",
+    "Cidade" : "SAO PAULO",
+    "Estados" : "SP",
+    "Estadio" : "Canindé"
+}
+
+/* 6 */
+{
+    "_id" : ObjectId("61819ecafaae177a42917c19"),
+    "Nome" : "Guarani",
+    "Cidade" : "CAMPINAS",
+    "Estados" : "SP",
+    "Estadio" : "Brinco de ouro da Princesa"
+}
+
+/* 7 */
+{
+    "_id" : ObjectId("61819ef9faae177a42917c2c"),
+    "Nome" : "Ponte Preta",
+    "Cidade" : "CAMPINAS",
+    "Estados" : "SP",
+    "Estadio" : "Moises Lucareli"
+}
+
+/* 8 */
+{
+    "_id" : ObjectId("6181a218faae177a42917cfe"),
+    "Nome" : "RB Bragantino",
+    "Cidade" : "Bragança",
+    "Estados" : "SP",
+    "Estadio" : "Nabi Abi Chedid"
+}
