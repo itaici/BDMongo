@@ -1,4 +1,4 @@
-# E vai começar o Campeonato os times ja estão escalados.
+# Vai começar o Campeonato os times ja estão escalados.
 
 Foram criadas quatro tabelas: Classificacao, Times, Jogos e Jogadores.
 
